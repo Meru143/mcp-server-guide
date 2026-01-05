@@ -1,0 +1,23 @@
+{
+  "name": "figma-skills-marketplace",
+  "owner": {
+    "name": "Figma"
+  },
+  "plugins": [
+    {
+      "name": "figma-code-connect",
+      "description": "Code Connect components from Figma designs",
+      "source": "./skills/code-connect-components"
+    },
+    {
+      "name": "figma-design-system-rules",
+      "description": "Create design system rules from Figma",
+      "source": "./skills/create-design-system-rules"
+    },
+    {
+      "name": "figma-implement-design",
+      "description": "Implement designs from Figma",
+      "source": "./skills/implement-design"
+    }
+  ]
+}
